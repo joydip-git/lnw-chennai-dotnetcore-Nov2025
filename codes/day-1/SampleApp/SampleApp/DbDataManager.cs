@@ -1,9 +1,11 @@
 ﻿namespace SampleApp
 {
-    public class DataManager : IManager
+    public class DbDataManager : IManager
     {
         private readonly IDataProvider _dataProvider;
-        public DataManager(IDataProvider dataProvider)
+        
+        //DI through constructor
+        public DbDataManager(IDataProvider dataProvider)
         {
             _dataProvider = dataProvider;
             Console.WriteLine("data manager created");
