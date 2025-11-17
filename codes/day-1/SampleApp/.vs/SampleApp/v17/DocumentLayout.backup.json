@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\sampleapp\\sampleapp\\filedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\filedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\sampleapp\\sampleapp\\dbdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\dbdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\sampleapp\\sampleapp\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\sampleapp\\sampleapp\\filedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\filedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\sampleapp\\sampleapp\\dbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\dbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\sampleapp\\sampleapp\\filedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\filedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\sampleapp\\sampleapp\\dbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\dbdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\sampleapp\\sampleapp\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686510CD-C426-4A81-9167-337383D87FFE}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,13 +38,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FileDataManager.cs",
               "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\SampleApp\\SampleApp\\FileDataManager.cs",
               "RelativeDocumentMoniker": "SampleApp\\FileDataManager.cs",
               "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\SampleApp\\SampleApp\\FileDataManager.cs",
               "RelativeToolTip": "SampleApp\\FileDataManager.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T09:31:48.991Z",
               "EditorCaption": ""
@@ -59,18 +59,17 @@
               "RelativeToolTip": "SampleApp\\FileDataProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:25:05.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T09:25:05.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DbDataProvider.cs",
               "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\SampleApp\\SampleApp\\DbDataProvider.cs",
               "RelativeDocumentMoniker": "SampleApp\\DbDataProvider.cs",
               "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\SampleApp\\SampleApp\\DbDataProvider.cs",
               "RelativeToolTip": "SampleApp\\DbDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T09:24:54.803Z",
               "EditorCaption": ""
@@ -83,27 +82,27 @@
               "RelativeDocumentMoniker": "SampleApp\\Program.cs",
               "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\SampleApp\\SampleApp\\Program.cs",
               "RelativeToolTip": "SampleApp\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T09:15:31.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DbDataManager.cs",
               "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\SampleApp\\SampleApp\\DbDataManager.cs",
               "RelativeDocumentMoniker": "SampleApp\\DbDataManager.cs",
               "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\SampleApp\\SampleApp\\DbDataManager.cs",
               "RelativeToolTip": "SampleApp\\DbDataManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T09:15:10.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IManager.cs",
               "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\SampleApp\\SampleApp\\IManager.cs",
               "RelativeDocumentMoniker": "SampleApp\\IManager.cs",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "SampleApp\\IManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:15:00.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T09:15:00.651Z"
             }
           ]
         }

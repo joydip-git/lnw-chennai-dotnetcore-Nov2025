@@ -4,32 +4,31 @@ namespace SampleApp
 {
     internal class Program
     {
-        private static IServiceProvider ConfigureServices()
+        private static IKeyedServiceProvider ConfigureServices()
         {
             IServiceCollection registry = new ServiceCollection();
-            IServiceProvider provider = registry
-            .AddSingleton<IDataProvider, DbDataProvider>()
-            .AddSingleton<IDataProvider, FileDataProvider>()
-            .AddSingleton<IManager, DbDataManager>()
-            .AddSingleton<IManager, FileDataManager>()
+            IKeyedServiceProvider provider = registry
+                .AddKeyedSingleton<IManager, DbDataManager>("dbmanager")
+                .AddKeyedSingleton<IManager, FileDataManager>("filemanager")
             .BuildServiceProvider();
             return provider;
         }
         static void Main(string[] args)
         {
-            IServiceProvider provider = ConfigureServices();
-            Console.WriteLine("1. data from file \n2. Data from database  ");
+            IKeyedServiceProvider provider = ConfigureServices();
+            Console.WriteLine("1. data from db \n2. Data from file  ");
             Console.Write("enter choice[1/2]: ");
             int choice = int.Parse(Console.ReadLine() ?? "");
             IManager? manager = null;
             switch (choice)
             {
                 case 1:
-                    manager = provider.GetRequiredService<FileDataManager>();
+                    manager =
+     provider.GetRequiredKeyedService<IManager>("dbmanager");
                     break;
 
                 case 2:
-                    manager = provider.GetService<DbDataManager>();
+                    manager = provider.GetRequiredKeyedService<IManager>("filemanager");
                     break;
 
                 default:

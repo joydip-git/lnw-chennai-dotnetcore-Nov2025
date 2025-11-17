@@ -1,3 +1,7 @@
+git repo:
+https://github.com/joydip-git/lnw-chennai-dotnetcore-Nov2025
+
+
 DOTNET Framework => 4.8 (legacy)
 	CLR 4.0
 		ASP.NET
@@ -42,3 +46,20 @@ built-in services:
 3. Environment/settings/configuration service
 4. hosting
 etc...
+
+interface: contract
+Loose Coupling: rely on abstractions rather on implementation
+
+IOC: Inversion of Control
+DI:
+--------------
+//Console.WriteLine("Hello, World!");
+//IServiceCollection container = new ServiceCollection();
+//IServiceProvider provider =
+//    container
+//    .AddSingleton<IDataProvider, DbDataProvider>()
+//    .AddSingleton<IManager, DataManager>()
+//    .BuildServiceProvider();
+//IManager manager = provider.GetRequiredService<IManager>();
+////IManager manager = new DataManager();
+//Console.WriteLine(manager.GetData());
