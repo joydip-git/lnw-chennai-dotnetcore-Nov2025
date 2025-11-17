@@ -1,0 +1,19 @@
+dependency package: Microsoft.Extensions.DI
+
+library app: 
+accounts
+	SavingsAccount
+		data: account holder name, type of account, current balance, account number
+		methods: withdraw and deposit
+	CurrentAccount:
+		data: account holder name, type of account, current balance, account number, overdraft limit
+		methods: withdraw and deposit
+
+account service
+	data: account
+	methods: depositamount and withdrawamount
+
+executable console app:
+Main method:
+	
+
