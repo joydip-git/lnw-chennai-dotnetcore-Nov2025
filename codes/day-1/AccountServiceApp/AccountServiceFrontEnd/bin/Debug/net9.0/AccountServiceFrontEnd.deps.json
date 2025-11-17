@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AccountServiceFrontEnd/1.0.0": {
+        "dependencies": {
+          "BankAccountLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AccountServiceFrontEnd.dll": {}
+        }
+      },
+      "BankAccountLibrary/1.0.0": {
+        "runtime": {
+          "BankAccountLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccountServiceFrontEnd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankAccountLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

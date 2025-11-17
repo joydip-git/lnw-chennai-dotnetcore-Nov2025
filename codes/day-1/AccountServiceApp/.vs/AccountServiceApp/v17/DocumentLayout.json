@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FAB04-2BE3-4A58-BC42-CCA43EED516D}|AccountServiceFrontEnd\\AccountServiceFrontEnd.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\accountserviceapp\\accountservicefrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8FAB04-2BE3-4A58-BC42-CCA43EED516D}|AccountServiceFrontEnd\\AccountServiceFrontEnd.csproj|solutionrelative:accountservicefrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\accountserviceapp\\bankaccountlibrary\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|solutionrelative:bankaccountlibrary\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\accountserviceapp\\bankaccountlibrary\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|solutionrelative:bankaccountlibrary\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\accountserviceapp\\bankaccountlibrary\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|solutionrelative:bankaccountlibrary\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\accountserviceapp\\bankaccountlibrary\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|solutionrelative:bankaccountlibrary\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\accountserviceapp\\bankaccountlibrary\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|solutionrelative:bankaccountlibrary\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-1\\accountserviceapp\\bankaccountlibrary\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAB0ED0-7139-42F6-9202-CDED0301C919}|BankAccountLibrary\\BankAccountLibrary.csproj|solutionrelative:bankaccountlibrary\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\AccountService.cs",
+              "RelativeDocumentMoniker": "BankAccountLibrary\\AccountService.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\AccountService.cs",
+              "RelativeToolTip": "BankAccountLibrary\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:33:43.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\AccountServiceFrontEnd\\Program.cs",
+              "RelativeDocumentMoniker": "AccountServiceFrontEnd\\Program.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\AccountServiceFrontEnd\\Program.cs",
+              "RelativeToolTip": "AccountServiceFrontEnd\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:30:06.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountLibrary\\CurrentAccount.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\CurrentAccount.cs",
+              "RelativeToolTip": "BankAccountLibrary\\CurrentAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:24:05.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountLibrary\\SavingsAccount.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\SavingsAccount.cs",
+              "RelativeToolTip": "BankAccountLibrary\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:21:17.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\IAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountLibrary\\IAccount.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\IAccount.cs",
+              "RelativeToolTip": "BankAccountLibrary\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:19:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\AccountType.cs",
+              "RelativeDocumentMoniker": "BankAccountLibrary\\AccountType.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\AccountType.cs",
+              "RelativeToolTip": "BankAccountLibrary\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:06:57.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\Account.cs",
+              "RelativeDocumentMoniker": "BankAccountLibrary\\Account.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\Account.cs",
+              "RelativeToolTip": "BankAccountLibrary\\Account.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:05:23.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
