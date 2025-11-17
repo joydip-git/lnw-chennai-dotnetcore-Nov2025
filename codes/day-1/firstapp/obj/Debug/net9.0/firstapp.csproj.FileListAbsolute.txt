@@ -1,0 +1,15 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\bin\Debug\net9.0\firstapp.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\bin\Debug\net9.0\firstapp.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\bin\Debug\net9.0\firstapp.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\bin\Debug\net9.0\firstapp.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\bin\Debug\net9.0\firstapp.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\firstapp.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\firstapp.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\firstapp.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\firstapp.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\firstapp.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\refint\firstapp.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\firstapp.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\firstapp.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\firstapp\obj\Debug\net9.0\ref\firstapp.dll

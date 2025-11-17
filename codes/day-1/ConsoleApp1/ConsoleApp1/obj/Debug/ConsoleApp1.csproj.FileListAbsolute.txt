@@ -1,0 +1,7 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
