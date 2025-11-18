@@ -7,6 +7,6 @@
     {
         public static bool IsEven(int number) => number % 2 == 0;
         public bool IsOdd(int number) => number % 2 != 0;
-        public bool Contains(string name) => name.ToLower()[0] == 'a';
+        public bool Contains(string name) => name.ToLower().StartsWith("a");
     }
 }

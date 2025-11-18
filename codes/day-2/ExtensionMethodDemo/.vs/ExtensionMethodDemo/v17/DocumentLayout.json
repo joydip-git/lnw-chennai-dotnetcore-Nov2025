@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA62FF9A-7A28-49D5-BAF1-99D1AA6B0D49}|Client\\Client.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\extensionmethoddemo\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA62FF9A-7A28-49D5-BAF1-99D1AA6B0D49}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA62FF9A-7A28-49D5-BAF1-99D1AA6B0D49}|Client\\Client.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\extensionmethoddemo\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA62FF9A-7A28-49D5-BAF1-99D1AA6B0D49}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1D48DC-FEF6-4BE4-96EE-75D9B7121670}|CalculatorExtensionLibrary\\CalculatorExtensionLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\extensionmethoddemo\\calculatorextensionlibrary\\calculatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1D48DC-FEF6-4BE4-96EE-75D9B7121670}|CalculatorExtensionLibrary\\CalculatorExtensionLibrary.csproj|solutionrelative:calculatorextensionlibrary\\calculatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B000EE80-78CB-406D-96C0-B981DEB6EFB7}|CalculationLibrary\\CalculationLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\extensionmethoddemo\\calculationlibrary\\scientificcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B000EE80-78CB-406D-96C0-B981DEB6EFB7}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\scientificcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B000EE80-78CB-406D-96C0-B981DEB6EFB7}|CalculationLibrary\\CalculationLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\extensionmethoddemo\\calculationlibrary\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B000EE80-78CB-406D-96C0-B981DEB6EFB7}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B000EE80-78CB-406D-96C0-B981DEB6EFB7}|CalculationLibrary\\CalculationLibrary.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\extensionmethoddemo\\calculationlibrary\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B000EE80-78CB-406D-96C0-B981DEB6EFB7}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T11:58:44.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\CalculationLibrary\\ICalculator.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\ICalculator.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\CalculationLibrary\\ICalculator.cs",
+              "RelativeToolTip": "CalculationLibrary\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:51:40.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScientificCalculator.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\CalculationLibrary\\ScientificCalculator.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\ScientificCalculator.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\CalculationLibrary\\ScientificCalculator.cs",
+              "RelativeToolTip": "CalculationLibrary\\ScientificCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:51:04.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleCalculator.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\CalculationLibrary\\SimpleCalculator.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\SimpleCalculator.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\CalculationLibrary\\SimpleCalculator.cs",
+              "RelativeToolTip": "CalculationLibrary\\SimpleCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:50:18.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:48:09.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorExtension.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\CalculatorExtensionLibrary\\CalculatorExtension.cs",
+              "RelativeDocumentMoniker": "CalculatorExtensionLibrary\\CalculatorExtension.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\ExtensionMethodDemo\\CalculatorExtensionLibrary\\CalculatorExtension.cs",
+              "RelativeToolTip": "CalculatorExtensionLibrary\\CalculatorExtension.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:43:55.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

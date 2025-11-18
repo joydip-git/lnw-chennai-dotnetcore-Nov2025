@@ -64,3 +64,18 @@ while instantiating a delegate one should pass the name of the method
 delegate can be invoked with the delegate reference variable (delobj()) or by using the "Invoke" method of the delegate. Pass the arguments to the delegate which are supposed to be passed to the method
 
 the delegate instance can be passed to another method as an argument and called back from that method
+
+Anonymous method and Lambda Expression
+--------------------------------------------
+anonymous method is created to provide an instant logic to a delegate
+its a method without a name but the signature matching to the delegate
+it is written in the following way
+
+<Del-name> <del-var-name> = delegate(parameter list as per the delegate)
+{ 
+	//code with or w/o return statement depending on delegate signature
+};
+
+Lambda expression is another way to write the anonymous method
+<Del-name> <del-var-name> = (parameter list as per the delegate) => expression body depending on delegate return value signature 
+ 

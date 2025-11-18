@@ -1,0 +1,16 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\bin\Debug\net9.0\CalculatorExtensionLibrary.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\bin\Debug\net9.0\CalculatorExtensionLibrary.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\bin\Debug\net9.0\CalculatorExtensionLibrary.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\bin\Debug\net9.0\CalculationLibrary.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\bin\Debug\net9.0\CalculationLibrary.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\CalculatorExtensionLibrary.csproj.AssemblyReference.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\CalculatorExtensionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\CalculatorExtensionLibrary.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\CalculatorExtensionLibrary.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\CalculatorExtensionLibrary.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\CalculatorExtensionLibrary.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\Calculat.84C6E1D6.Up2Date
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\CalculatorExtensionLibrary.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\refint\CalculatorExtensionLibrary.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\CalculatorExtensionLibrary.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\ExtensionMethodDemo\CalculatorExtensionLibrary\obj\Debug\net9.0\ref\CalculatorExtensionLibrary.dll

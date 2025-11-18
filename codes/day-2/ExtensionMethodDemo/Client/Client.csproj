@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CalculationLibrary\CalculationLibrary.csproj" />
+    <ProjectReference Include="..\CalculatorExtensionLibrary\CalculatorExtensionLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CalculationLibrary">
+      <HintPath>..\CalculationLibrary\bin\Debug\net9.0\CalculationLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

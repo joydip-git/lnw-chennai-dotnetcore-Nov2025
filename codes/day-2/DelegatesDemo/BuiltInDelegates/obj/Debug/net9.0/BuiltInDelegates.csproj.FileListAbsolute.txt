@@ -1,0 +1,5 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.sourcelink.json
