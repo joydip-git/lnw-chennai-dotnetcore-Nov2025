@@ -1,0 +1,15 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\refint\GenericDemo.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\GenericDemo\GenericDemo\obj\Debug\net9.0\ref\GenericDemo.dll
