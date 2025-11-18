@@ -1,8 +1,34 @@
 Builder pattern
 Generic
-Delegate
 Generic Collections
+
+Delegate
 Generic Delegate
 New Features of C#
 	- Lambda Expression
 Reflection
+
+Indexer:
+--------------------
+a special type of property which is invoked on the current instance
+used to assign value to or get value from multiple data members (one at a time)
+used with collections of elements, such as an array or generic collection classes
+can be used to accept one or more than one argument apart from the actual value to be assigned to or to get from a data member
+
+
+Generic:
+----------------------
+any method, class, interface, data member or even delegates can be generic
+in case of collections, it helps to avoid boxing and unboxing
+it helps in type safety
+it provides compile time checking mechanism
+
+
+ILDASM: Intermediate Language DisAssembler
+disassemble the IL code
+
+
+Automatic Properties:
+--------------------------------
+you can declare a property inside a class with out explicitly declaring a data member and without having code for set and get accessor
+the compiler (Roslyn) will produce IL code with private fields (data members) for those properties and will overwrite the set and get accessor of the properties

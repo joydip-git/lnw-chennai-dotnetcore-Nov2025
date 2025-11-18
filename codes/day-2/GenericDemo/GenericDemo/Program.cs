@@ -1,9 +1,25 @@
-﻿namespace GenericDemo
+﻿using System.Collections;
+
+namespace GenericDemo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            int x = 10;
+            object obj = x; // Boxing => implcit conversion
+            int y = (int)obj; // Unboxing => expplicit conversion
+
+            ArrayList al = new ArrayList();
+            al.Add(obj);
+            al.Add("Hello");
+            al.Add('a');
+            al.Add(20.5);
+            foreach (object item in al)
+            {
+                Console.WriteLine(item);
+            }
+
             Student student = new Student();
             //student.Id = 101;
             //student.Name = "John Doe";

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F05AA488-3052-443E-BF2C-C1763A3A775C}|GenericDemo\\GenericDemo.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05AA488-3052-443E-BF2C-C1763A3A775C}|GenericDemo\\GenericDemo.csproj|solutionrelative:genericdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|solutionrelative:genericwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05AA488-3052-443E-BF2C-C1763A3A775C}|GenericDemo\\GenericDemo.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericdemo\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05AA488-3052-443E-BF2C-C1763A3A775C}|GenericDemo\\GenericDemo.csproj|solutionrelative:genericdemo\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericwithdi\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|solutionrelative:genericwithdi\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05AA488-3052-443E-BF2C-C1763A3A775C}|GenericDemo\\GenericDemo.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05AA488-3052-443E-BF2C-C1763A3A775C}|GenericDemo\\GenericDemo.csproj|solutionrelative:genericdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericwithdi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|solutionrelative:genericwithdi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05AA488-3052-443E-BF2C-C1763A3A775C}|GenericDemo\\GenericDemo.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericdemo\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05AA488-3052-443E-BF2C-C1763A3A775C}|GenericDemo\\GenericDemo.csproj|solutionrelative:genericdemo\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericwithdi\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|solutionrelative:genericwithdi\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericwithdi\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|solutionrelative:genericwithdi\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\genericdemo\\genericwithdi\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19E673F-E808-4E15-891B-899736F49C3F}|GenericWithDI\\GenericWithDI.csproj|solutionrelative:genericwithdi\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericDemo\\Student.cs",
-              "RelativeDocumentMoniker": "GenericDemo\\Student.cs",
-              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericDemo\\Student.cs",
-              "RelativeToolTip": "GenericDemo\\Student.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAA3wEYAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "GenericWithDI\\CustomerRepository.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\CustomerRepository.cs",
+              "RelativeToolTip": "GenericWithDI\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:28:46.574Z",
+              "WhenOpened": "2025-11-18T06:54:52.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MyCollection.cs",
-              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericDemo\\MyCollection.cs",
-              "RelativeDocumentMoniker": "GenericDemo\\MyCollection.cs",
-              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericDemo\\MyCollection.cs",
-              "RelativeToolTip": "GenericDemo\\MyCollection.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "GenericWithDI\\ProductRepository.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\ProductRepository.cs",
+              "RelativeToolTip": "GenericWithDI\\ProductRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwB0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:13:18.107Z",
+              "WhenOpened": "2025-11-18T06:52:23.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IOperations.cs",
-              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericDemo\\IOperations.cs",
-              "RelativeDocumentMoniker": "GenericDemo\\IOperations.cs",
-              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericDemo\\IOperations.cs",
-              "RelativeToolTip": "GenericDemo\\IOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\Customer.cs",
+              "RelativeDocumentMoniker": "GenericWithDI\\Customer.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\Customer.cs",
+              "RelativeToolTip": "GenericWithDI\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:12:33.508Z",
+              "WhenOpened": "2025-11-18T06:51:29.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\Product.cs",
+              "RelativeDocumentMoniker": "GenericWithDI\\Product.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\Product.cs",
+              "RelativeToolTip": "GenericWithDI\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:44:03.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\IRepository.cs",
+              "RelativeDocumentMoniker": "GenericWithDI\\IRepository.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\IRepository.cs",
+              "RelativeToolTip": "GenericWithDI\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:40:40.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericDemo\\Program.cs",
-              "RelativeDocumentMoniker": "GenericDemo\\Program.cs",
-              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericDemo\\Program.cs",
-              "RelativeToolTip": "GenericDemo\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAWwBoAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\Program.cs",
+              "RelativeDocumentMoniker": "GenericWithDI\\Program.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\GenericDemo\\GenericWithDI\\Program.cs",
+              "RelativeToolTip": "GenericWithDI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:06:16.858Z",
+              "WhenOpened": "2025-11-18T06:40:04.069Z",
               "EditorCaption": ""
             }
           ]
