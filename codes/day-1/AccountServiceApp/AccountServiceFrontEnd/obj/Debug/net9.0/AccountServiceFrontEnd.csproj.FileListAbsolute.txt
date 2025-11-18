@@ -17,3 +17,5 @@ E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\AccountServiceFr
 E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\AccountServiceFrontEnd\obj\Debug\net9.0\AccountServiceFrontEnd.pdb
 E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\AccountServiceFrontEnd\obj\Debug\net9.0\AccountServiceFrontEnd.genruntimeconfig.cache
 E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\AccountServiceFrontEnd\obj\Debug\net9.0\ref\AccountServiceFrontEnd.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\AccountServiceFrontEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\AccountServiceFrontEnd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

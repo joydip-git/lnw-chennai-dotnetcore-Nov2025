@@ -10,3 +10,4 @@ E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\BankAccountLibra
 E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\BankAccountLibrary\obj\Debug\net9.0\refint\BankAccountLibrary.dll
 E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\BankAccountLibrary\obj\Debug\net9.0\BankAccountLibrary.pdb
 E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\BankAccountLibrary\obj\Debug\net9.0\ref\BankAccountLibrary.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-1\AccountServiceApp\BankAccountLibrary\obj\Debug\net9.0\BankAccountLibrary.csproj.AssemblyReference.cache
