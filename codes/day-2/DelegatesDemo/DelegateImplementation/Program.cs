@@ -64,6 +64,14 @@
             {
                 Console.WriteLine(item);
             }
+
+            List<string> names = ["Alice", "Batman", "Alison", "Suman", "Joy"];
+            LogicDel<string> containsADel = logic.Contains;
+            List<string> namesWithA = Filter(names, containsADel);
+            foreach (var item in namesWithA)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
