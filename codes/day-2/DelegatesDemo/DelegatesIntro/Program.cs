@@ -50,8 +50,27 @@ namespace DelegatesIntro
             MathOperations ops = new();
             MathDel subDel = ops.Subtract;
 
+            //MathDel multiDel = public void Multiply(int a, int b)
+            MathDel multiDel = delegate (int a, int b)
+            {
+                Console.WriteLine($"Product: {a * b}");
+            };
+
+            //MathDel divDel = (int a, int b) =>
+            //{
+            //    Console.WriteLine($"Division: {a / b}");
+            //};
+
+            //MathDel divDel = (int a, int b) => Console.WriteLine($"Division: {a / b}");
+
+            //Lambda with type inference
+            //a shorthand for anonymous method
+            MathDel divDel = (a, b) => Console.WriteLine($"Division: {a / b}");
+
             InvokeDelegate(addDel, 5, 10);
             InvokeDelegate(subDel, 10, 5);
+            InvokeDelegate(multiDel, 4, 6);
+            InvokeDelegate(divDel, 20, 4);
 
         }
         static void InvokeDelegate(MathDel del, int x, int y)

@@ -24,7 +24,7 @@ it helps in type safety
 it provides compile time checking mechanism
 
 
-ILDASM: Intermediate Language DisAssembler
+ILDASM: Intermediate Language Disassembler
 disassemble the IL code
 
 
@@ -32,6 +32,19 @@ Automatic Properties:
 --------------------------------
 you can declare a property inside a class with out explicitly declaring a data member and without having code for set and get accessor
 the compiler (Roslyn) will produce IL code with private fields (data members) for those properties and will overwrite the set and get accessor of the properties
+
+Object and Collection initializer:
+---------------------------------------
+Object can be instantiated using the properties directly using the following syntax:
+<class-name> <var-name> = new <Class-name>{prop1=value, prop2=value,...};
+Product p = new Product {Id=1, Name="", Price=1000};
+or
+Product p = new() {Id=1, Name="", Price=1000};
+
+collection instance can be initialized following way (example List<T>)
+List<int> list = new List<int>{1,2,3,4,...};
+or
+List<int> list = [1,2,3,4,...];
 
 
 Delegate:
@@ -41,3 +54,13 @@ delegate declaration should be same as that of the method declaration (that you 
 
 	- return type should be same
 	- number, position and data type of arguments should be same
+
+2. delegate instantiation
+while instantiating a delegate one should pass the name of the method
+	- with the class name if the method is static of that class
+	- with the reference variable if the method is non-static
+
+3. delegate invocation
+delegate can be invoked with the delegate reference variable (delobj()) or by using the "Invoke" method of the delegate. Pass the arguments to the delegate which are supposed to be passed to the method
+
+the delegate instance can be passed to another method as an argument and called back from that method
