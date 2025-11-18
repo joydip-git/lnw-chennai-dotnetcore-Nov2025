@@ -32,3 +32,12 @@ Automatic Properties:
 --------------------------------
 you can declare a property inside a class with out explicitly declaring a data member and without having code for set and get accessor
 the compiler (Roslyn) will produce IL code with private fields (data members) for those properties and will overwrite the set and get accessor of the properties
+
+
+Delegate:
+------------------------
+1. delegate declaration
+delegate declaration should be same as that of the method declaration (that you ae trying invoke)
+
+	- return type should be same
+	- number, position and data type of arguments should be same

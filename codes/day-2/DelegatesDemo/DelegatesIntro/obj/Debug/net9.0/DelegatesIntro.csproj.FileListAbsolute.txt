@@ -1,0 +1,15 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\bin\Debug\net9.0\DelegatesIntro.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\bin\Debug\net9.0\DelegatesIntro.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\bin\Debug\net9.0\DelegatesIntro.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\bin\Debug\net9.0\DelegatesIntro.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\bin\Debug\net9.0\DelegatesIntro.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\DelegatesIntro.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\DelegatesIntro.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\DelegatesIntro.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\DelegatesIntro.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\DelegatesIntro.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\DelegatesIntro.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\refint\DelegatesIntro.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\DelegatesIntro.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\DelegatesIntro.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-2\DelegatesDemo\DelegatesIntro\obj\Debug\net9.0\ref\DelegatesIntro.dll

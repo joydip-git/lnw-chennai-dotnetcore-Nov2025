@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\DelegatesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91882915-67CD-475C-B04E-63DA8D1D57CA}|DelegatesIntro\\DelegatesIntro.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\delegatesdemo\\delegatesintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91882915-67CD-475C-B04E-63DA8D1D57CA}|DelegatesIntro\\DelegatesIntro.csproj|solutionrelative:delegatesintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\DelegatesDemo\\DelegatesIntro\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesIntro\\Program.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\DelegatesDemo\\DelegatesIntro\\Program.cs",
+              "RelativeToolTip": "DelegatesIntro\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:49:27.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
