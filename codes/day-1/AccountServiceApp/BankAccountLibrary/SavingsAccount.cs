@@ -2,6 +2,7 @@
 {
     public class SavingsAccount : Account
     {
+        public SavingsAccount() { }
         public SavingsAccount(string name, int accountNumber, AccountType accountType, decimal balance):base(name, accountNumber, accountType, balance)
         {
         

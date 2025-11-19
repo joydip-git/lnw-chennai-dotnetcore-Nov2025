@@ -4,6 +4,7 @@
     {
         private decimal overdraftLimit;
 
+        public CurrentAccount() { }
         public CurrentAccount(string name, int accountNumber, AccountType accountType, decimal balance, decimal overdraftLimit) : base(name, accountNumber, accountType, balance)
         {
             this.overdraftLimit = overdraftLimit;

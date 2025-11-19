@@ -1,0 +1,15 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\bin\Debug\net9.0\ReflectionAppClient.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\bin\Debug\net9.0\ReflectionAppClient.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\bin\Debug\net9.0\ReflectionAppClient.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\bin\Debug\net9.0\ReflectionAppClient.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\bin\Debug\net9.0\ReflectionAppClient.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\ReflectionAppClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\ReflectionAppClient.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\ReflectionAppClient.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\ReflectionAppClient.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\ReflectionAppClient.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\ReflectionAppClient.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\refint\ReflectionAppClient.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\ReflectionAppClient.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\ReflectionAppClient.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\ReflectionApp\ReflectionAppClient\obj\Debug\net9.0\ref\ReflectionAppClient.dll
