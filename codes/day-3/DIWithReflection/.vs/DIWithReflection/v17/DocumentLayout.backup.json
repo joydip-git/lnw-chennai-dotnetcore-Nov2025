@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FC2DE-E7E1-4977-AD14-7A3023BCAC37}|DIWithReflection\\DIWithReflection.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-3\\diwithreflection\\diwithreflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5FC2DE-E7E1-4977-AD14-7A3023BCAC37}|DIWithReflection\\DIWithReflection.csproj|solutionrelative:diwithreflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FC2DE-E7E1-4977-AD14-7A3023BCAC37}|DIWithReflection\\DIWithReflection.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-3\\diwithreflection\\diwithreflection\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5FC2DE-E7E1-4977-AD14-7A3023BCAC37}|DIWithReflection\\DIWithReflection.csproj|solutionrelative:diwithreflection\\serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FC2DE-E7E1-4977-AD14-7A3023BCAC37}|DIWithReflection\\DIWithReflection.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-3\\diwithreflection\\diwithreflection\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5FC2DE-E7E1-4977-AD14-7A3023BCAC37}|DIWithReflection\\DIWithReflection.csproj|solutionrelative:diwithreflection\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FC2DE-E7E1-4977-AD14-7A3023BCAC37}|DIWithReflection\\DIWithReflection.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-3\\diwithreflection\\diwithreflection\\icalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5FC2DE-E7E1-4977-AD14-7A3023BCAC37}|DIWithReflection\\DIWithReflection.csproj|solutionrelative:diwithreflection\\icalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\Calculator.cs",
+              "RelativeDocumentMoniker": "DIWithReflection\\Calculator.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\Calculator.cs",
+              "RelativeToolTip": "DIWithReflection\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:03:15.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalculations.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\ICalculations.cs",
+              "RelativeDocumentMoniker": "DIWithReflection\\ICalculations.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\ICalculations.cs",
+              "RelativeToolTip": "DIWithReflection\\ICalculations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:02:52.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistry.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\ServiceRegistry.cs",
+              "RelativeDocumentMoniker": "DIWithReflection\\ServiceRegistry.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\ServiceRegistry.cs",
+              "RelativeToolTip": "DIWithReflection\\ServiceRegistry.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:00:39.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\Program.cs",
+              "RelativeDocumentMoniker": "DIWithReflection\\Program.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\Program.cs",
+              "RelativeToolTip": "DIWithReflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T06:59:34.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

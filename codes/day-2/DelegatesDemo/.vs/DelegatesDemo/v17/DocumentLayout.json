@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\DelegatesDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08F5761C-D210-4A27-A5F4-35F9232E49DC}|BuiltInDelegates\\BuiltInDelegates.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\delegatesdemo\\builtindelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08F5761C-D210-4A27-A5F4-35F9232E49DC}|BuiltInDelegates\\BuiltInDelegates.csproj|solutionrelative:builtindelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91882915-67CD-475C-B04E-63DA8D1D57CA}|DelegatesIntro\\DelegatesIntro.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-2\\delegatesdemo\\delegatesintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91882915-67CD-475C-B04E-63DA8D1D57CA}|DelegatesIntro\\DelegatesIntro.csproj|solutionrelative:delegatesintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\DelegatesDemo\\BuiltInDelegates\\Program.cs",
-              "RelativeDocumentMoniker": "BuiltInDelegates\\Program.cs",
-              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\DelegatesDemo\\BuiltInDelegates\\Program.cs",
-              "RelativeToolTip": "BuiltInDelegates\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwCkAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\DelegatesDemo\\DelegatesIntro\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesIntro\\Program.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-2\\DelegatesDemo\\DelegatesIntro\\Program.cs",
+              "RelativeToolTip": "DelegatesIntro\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T11:10:29.581Z",
+              "WhenOpened": "2025-11-19T06:46:56.81Z",
               "EditorCaption": ""
             }
           ]

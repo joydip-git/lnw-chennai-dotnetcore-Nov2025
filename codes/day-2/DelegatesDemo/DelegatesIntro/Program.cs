@@ -24,7 +24,10 @@ namespace DelegatesIntro
 
         public void Invoke(int a, int b)
         {
-            method.Invoke(target, new Object?[] { a, b });
+            if(target == null)
+                method.Invoke(null, new Object?[] { a, b });
+            else
+                method.Invoke(target, new Object?[] { a, b });
         }
     }
     */
@@ -45,10 +48,10 @@ namespace DelegatesIntro
         {
             //2. Instantiate the delegate
             //MathDel addDel = new MathDel(MathOperations.Add);
-            MathDel addDel = MathOperations.Add; // Simplified instantiation
+            MathDel addDel = new MathDel(MathOperations.Add); // Simplified instantiation
 
             MathOperations ops = new();
-            MathDel subDel = ops.Subtract;
+            MathDel subDel = new MathDel(ops.Subtract);
 
             //MathDel multiDel = public void Multiply(int a, int b)
             MathDel multiDel = delegate (int a, int b)
@@ -71,6 +74,13 @@ namespace DelegatesIntro
             InvokeDelegate(subDel, 10, 5);
             InvokeDelegate(multiDel, 4, 6);
             InvokeDelegate(divDel, 20, 4);
+
+
+            //Type mathOps = typeof(MathOperations);
+            //MethodInfo? methodInfo = mathOps.GetMethod("Add");
+
+            Type mathOps = ops.GetType();
+            MethodInfo? methodInfo = mathOps.GetMethod("Subtract");
 
         }
         static void InvokeDelegate(MathDel del, int x, int y)

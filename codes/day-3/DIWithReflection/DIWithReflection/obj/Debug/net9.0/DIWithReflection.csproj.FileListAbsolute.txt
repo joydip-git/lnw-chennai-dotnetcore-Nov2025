@@ -1,0 +1,15 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\DIWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\DIWithReflection.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\DIWithReflection.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\DIWithReflection.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\DIWithReflection.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\bin\Debug\net9.0\DIWithReflection.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\bin\Debug\net9.0\DIWithReflection.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\bin\Debug\net9.0\DIWithReflection.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\bin\Debug\net9.0\DIWithReflection.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\bin\Debug\net9.0\DIWithReflection.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\DIWithReflection.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\refint\DIWithReflection.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\DIWithReflection.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\DIWithReflection.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\DIWithReflection\DIWithReflection\obj\Debug\net9.0\ref\DIWithReflection.dll

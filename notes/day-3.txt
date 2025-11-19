@@ -3,3 +3,8 @@ Reflection:
 1. discovering types at runtime
 2. dynamic object creation - objects on the fly (based on the metadata of the types)
 3. dynamic method invocation based on the metadata of the method
+
+
+TOP => Type Object Pointer
+SBI => Sync Block Index
+
