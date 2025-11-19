@@ -1,0 +1,44 @@
+solution: LNW.DotNet.PMSApp
+
+models:
+LNW.DotNet.PMSApp.Entities: (library)
+-------------------------
+Product => id, name, price, desc
+Category => id, name
+
+storage (temporary)
+name: LNW.DotNet.PMSApp.Storage: (library)
+------------------------------------------
+List<Product>
+List<Category>
+
+Repository/Data Access layer: (library)
+name: LNW.DotNet.PMSApp.Repository
+------------------------------------
+ProductRepository
+CategoryRepository
+	
+	bool add	=> P/C
+	bool remove	=> id
+	bool update	=> id, P/C
+	P/C get	=> id			
+	List<P/C> getall 	=> 
+
+Manager/Business layer: (library)
+name: LNW.DotNet.PMSApp.BusinessLayer
+----------------------------------------
+ProductManager
+CategoryManager
+
+	insert => P/C => add(p)
+	delete => id
+	modify => P/C, id
+	fetch => id
+	fetchall => 
+
+UI layer: (console)
+LNW.DotNet.PMSApp.UserInterface
+------------------------------------------
+Main
+	insert(new Product())
+	fetchall(1/2/3)

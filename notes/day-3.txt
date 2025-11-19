@@ -4,7 +4,34 @@ Reflection:
 2. dynamic object creation - objects on the fly (based on the metadata of the types)
 3. dynamic method invocation based on the metadata of the method
 
-
+Hidden data members of every class instance in C#:
+--------------------------------------------------------
 TOP => Type Object Pointer
 SBI => Sync Block Index
+
+
+Builder pattern:
+--------------------------------
+
+class House 
+	door, window, wall, roof
+
+class HouseWithGarden:House
+	garden
+
+class HouseWithGardenAndPool:HouseWithGarden
+	swimming pool
+
+
+Builder
+	House house = new();
+	buildSimple() => builder
+	buildGarden
+	buildPool
+
+	buildFinal() => house
+
+	
+
+
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\BankAccountLibrary.csproj": {}
+    "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\BankAccountLibrary.csproj": {}
   },
   "projects": {
-    "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\BankAccountLibrary.csproj": {
+    "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\BankAccountLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\BankAccountLibrary.csproj",
+        "projectUniqueName": "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\BankAccountLibrary.csproj",
         "projectName": "BankAccountLibrary",
-        "projectPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\BankAccountLibrary.csproj",
+        "projectPath": "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\BankAccountLibrary.csproj",
         "packagesPath": "C:\\Users\\joydi\\.nuget\\packages\\",
-        "outputPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\obj\\",
+        "outputPath": "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\BankAccountLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

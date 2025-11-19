@@ -1,0 +1,15 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\bin\Debug\net9.0\BuilderPattern.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\bin\Debug\net9.0\BuilderPattern.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\bin\Debug\net9.0\BuilderPattern.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\bin\Debug\net9.0\BuilderPattern.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\bin\Debug\net9.0\BuilderPattern.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\BuilderPattern.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\BuilderPattern.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\BuilderPattern.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\BuilderPattern.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\BuilderPattern.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\refint\BuilderPattern.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\BuilderPattern.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\BuilderPattern.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\BuilderPattern\BuilderPattern\obj\Debug\net9.0\ref\BuilderPattern.dll

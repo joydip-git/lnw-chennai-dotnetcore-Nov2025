@@ -1,0 +1,12 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\bin\Debug\net9.0\MapperLibrary.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\bin\Debug\net9.0\MapperLibrary.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\bin\Debug\net9.0\MapperLibrary.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\obj\Debug\net9.0\MapperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\obj\Debug\net9.0\MapperLibrary.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\obj\Debug\net9.0\MapperLibrary.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\obj\Debug\net9.0\MapperLibrary.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\obj\Debug\net9.0\MapperLibrary.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\obj\Debug\net9.0\MapperLibrary.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\obj\Debug\net9.0\refint\MapperLibrary.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\obj\Debug\net9.0\MapperLibrary.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\MapperApp\MapperLibrary\obj\Debug\net9.0\ref\MapperLibrary.dll

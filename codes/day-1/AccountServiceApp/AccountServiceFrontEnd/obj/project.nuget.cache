@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A5FlZKivz08=",
+  "dgSpecHash": "42PdaCej/DI=",
   "success": true,
-  "projectFilePath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\AccountServiceFrontEnd\\AccountServiceFrontEnd.csproj",
+  "projectFilePath": "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-1\\AccountServiceApp\\AccountServiceFrontEnd\\AccountServiceFrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
     "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"

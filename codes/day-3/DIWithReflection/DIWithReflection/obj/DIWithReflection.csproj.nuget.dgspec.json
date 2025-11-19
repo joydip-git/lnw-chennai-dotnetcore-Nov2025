@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\DIWithReflection.csproj": {}
+    "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\DIWithReflection.csproj": {}
   },
   "projects": {
-    "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\DIWithReflection.csproj": {
+    "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\DIWithReflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\DIWithReflection.csproj",
+        "projectUniqueName": "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\DIWithReflection.csproj",
         "projectName": "DIWithReflection",
-        "projectPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\DIWithReflection.csproj",
+        "projectPath": "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\DIWithReflection.csproj",
         "packagesPath": "C:\\Users\\joydi\\.nuget\\packages\\",
-        "outputPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\obj\\",
+        "outputPath": "e:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\DIWithReflection\\DIWithReflection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
