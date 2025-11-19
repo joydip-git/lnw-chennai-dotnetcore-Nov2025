@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LnW.DotNet.PmsApp.UserInterface/1.0.0": {
+        "dependencies": {
+          "LnW.DotNet.PmsApp.Entities": "1.0.0",
+          "LnW.DotNet.PmsApp.Manager": "1.0.0"
+        },
+        "runtime": {
+          "LnW.DotNet.PmsApp.UserInterface.dll": {}
+        }
+      },
+      "LnW.DotNet.PmsApp.Entities/1.0.0": {
+        "runtime": {
+          "LnW.DotNet.PmsApp.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LnW.DotNet.PmsApp.Manager/1.0.0": {
+        "dependencies": {
+          "LnW.DotNet.PmsApp.Entities": "1.0.0"
+        },
+        "runtime": {
+          "LnW.DotNet.PmsApp.Manager.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LnW.DotNet.PmsApp.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LnW.DotNet.PmsApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LnW.DotNet.PmsApp.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

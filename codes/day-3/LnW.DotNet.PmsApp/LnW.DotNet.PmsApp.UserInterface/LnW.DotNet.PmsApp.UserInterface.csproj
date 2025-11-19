@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LnW.DotNet.PmsApp.Entities\LnW.DotNet.PmsApp.Entities.csproj" />
+    <ProjectReference Include="..\LnW.DotNet.PmsApp.Manager\LnW.DotNet.PmsApp.Manager.csproj" />
+  </ItemGroup>
+
+</Project>

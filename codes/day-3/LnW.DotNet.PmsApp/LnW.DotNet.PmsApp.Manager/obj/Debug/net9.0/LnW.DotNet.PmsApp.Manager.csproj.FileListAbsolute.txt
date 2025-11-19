@@ -1,0 +1,16 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\bin\Debug\net9.0\LnW.DotNet.PmsApp.Manager.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\bin\Debug\net9.0\LnW.DotNet.PmsApp.Manager.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\bin\Debug\net9.0\LnW.DotNet.PmsApp.Manager.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\bin\Debug\net9.0\LnW.DotNet.PmsApp.Entities.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\bin\Debug\net9.0\LnW.DotNet.PmsApp.Entities.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\LnW.DotNet.PmsApp.Manager.csproj.AssemblyReference.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\LnW.DotNet.PmsApp.Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\LnW.DotNet.PmsApp.Manager.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\LnW.DotNet.PmsApp.Manager.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\LnW.DotNet.PmsApp.Manager.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\LnW.DotNet.PmsApp.Manager.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\LnW.DotN.C517754F.Up2Date
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\LnW.DotNet.PmsApp.Manager.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\refint\LnW.DotNet.PmsApp.Manager.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\LnW.DotNet.PmsApp.Manager.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Manager\obj\Debug\net9.0\ref\LnW.DotNet.PmsApp.Manager.dll
