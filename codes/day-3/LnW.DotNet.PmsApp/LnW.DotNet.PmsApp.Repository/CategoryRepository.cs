@@ -5,22 +5,24 @@ namespace LnW.DotNet.PmsApp.Repository
 {
     public class CategoryRepository : IRepository<Category, int>
     {
-        private readonly IStorage storage;
-        public CategoryRepository(IStorage storage)
+        private readonly IStorage<Category> storage;
+
+        public CategoryRepository(IStorage<Category> storage)
         {
             this.storage = storage;
         }
-        private bool Exists(int id)
+        private async Task<bool> Exists(int id)
         {
-            return storage.Categories.Any(c => c.Id == id);
+            var categories = await storage.LoadDataAsync();
+            return categories.Any(c => c.Id == id);
         }
-        public Category Add(Category entity)
+        public async Task<Category> Add(Category entity)
         {
             try
             {
-                if (!Exists(entity.Id))
+                if (!await Exists(entity.Id))
                 {
-                    storage.Categories.Add(entity);
+                    (await storage.LoadDataAsync()).Add(entity);
                     return entity;
                 }
                 else
@@ -32,12 +34,13 @@ namespace LnW.DotNet.PmsApp.Repository
             }
         }
 
-        public Category Delete(int id)
+        public async Task<Category> Delete(int id)
         {
             try
             {
-                Category entity = GetById(id);
-                bool removed = storage.Categories.Remove(entity);
+                Category entity = await GetById(id);
+                var categories = await storage.LoadDataAsync();
+                bool removed = categories.Remove(entity);
                 return removed ? entity : throw new Exception($"Category with id:{id} could not be removed");
             }
             catch (Exception)
@@ -46,33 +49,36 @@ namespace LnW.DotNet.PmsApp.Repository
             }
         }
 
-        public IReadOnlyList<Category> GetAll()
+        public async Task<IReadOnlyList<Category>> GetAll()
         {
-            if (storage.Categories.Count == 0)
+            var categories = await storage.LoadDataAsync();
+            if (categories.Count == 0)
             {
                 throw new Exception("No categories available");
             }
             else
-                return storage.Categories;
+                return categories;
         }
 
-        public Category GetById(int id)
+        public async Task<Category> GetById(int id)
         {
-            if (Exists(id))
+            if (await Exists(id))
             {
-                return storage.Categories.First(c => c.Id == id);
+                var categories = await storage.LoadDataAsync();
+                return categories.First(c => c.Id == id);
             }
             else
                 throw new Exception($"Category with id:{id} does not exist");
         }
 
-        public Category Update(Category entity)
+        public async Task<Category> Update(Category entity)
         {
-            if (Exists(entity.Id))
+            if (await Exists(entity.Id))
             {
-                Category found = GetById(entity.Id);
-                int index = storage.Categories.IndexOf(found);
-                storage.Categories[index] = entity;
+                Category found = await GetById(entity.Id);
+                var categories = await storage.LoadDataAsync();
+                int index = categories.IndexOf(found);
+                categories[index] = entity;
                 return entity;
             }
             else

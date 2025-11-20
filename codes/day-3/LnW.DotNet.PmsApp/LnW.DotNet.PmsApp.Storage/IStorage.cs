@@ -1,10 +1,9 @@
-﻿using LnW.DotNet.PmsApp.Entities;
-
+﻿
 namespace LnW.DotNet.PmsApp.Storage
 {
-    public interface IStorage
+    public interface IStorage<T> where T : class
     {
-        List<Category> Categories { get; }
-        List<Product> Products { get; }
+        Task<List<T>> LoadDataAsync();
+        Task WriteDataAsync(IEnumerable<T> data);
     }
 }

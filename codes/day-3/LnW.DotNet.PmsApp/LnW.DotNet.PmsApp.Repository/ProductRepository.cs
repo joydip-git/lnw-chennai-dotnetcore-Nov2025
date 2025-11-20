@@ -5,22 +5,25 @@ namespace LnW.DotNet.PmsApp.Repository
 {
     public class ProductRepository : IRepository<Product, int>
     {
-        private readonly IStorage storage;
-        public ProductRepository(IStorage storage)
+        private readonly IStorage<Product> storage;
+        public ProductRepository(IStorage<Product> storage)
         {
             this.storage = storage;
         }
-        private bool Exists(int id)
+        private async Task<bool> Exists(int id)
         {
-            return storage.Products.Any(p => p.Id == id);
+            var products = await storage.LoadDataAsync();
+            return products.Any(p => p.Id == id);
         }
-        public Product Add(Product entity)
+        public async Task<Product> Add(Product entity)
         {
             try
             {
-                if (!Exists(entity.Id))
+                if (!await Exists(entity.Id))
                 {
-                    storage.Products.Add(entity);
+                    var products = await storage.LoadDataAsync();
+                    products.Add(entity);
+                    await storage.WriteDataAsync(products);
                     return entity;
                 }
                 else
@@ -32,13 +35,14 @@ namespace LnW.DotNet.PmsApp.Repository
             }
         }
 
-        public Product Delete(int id)
+        public async Task<Product> Delete(int id)
         {
 
             try
             {
-                Product entity = GetById(id);
-                bool removed = storage.Products.Remove(entity);
+                Product entity = await GetById(id);
+                var products = await storage.LoadDataAsync();
+                bool removed = products.Remove(entity);
                 return removed ? entity : throw new Exception($"Product with id:{id} could not be removed");
             }
             catch (Exception)
@@ -47,33 +51,36 @@ namespace LnW.DotNet.PmsApp.Repository
             }
         }
 
-        public IReadOnlyList<Product> GetAll()
+        public async Task<IReadOnlyList<Product>> GetAll()
         {
-            if (storage.Products.Count == 0)
+            var products = await storage.LoadDataAsync();
+            if (products.Count == 0)
             {
                 throw new Exception("No products available");
             }
             else
-                return storage.Products;
+                return products;
         }
 
-        public Product GetById(int id)
+        public async Task<Product> GetById(int id)
         {
-            if (Exists(id))
+            if (await Exists(id))
             {
-                return storage.Products.First(p => p.Id == id);
+                var products = await storage.LoadDataAsync();
+                return products.First(p => p.Id == id);
             }
             else
                 throw new Exception($"Product with id:{id} does not exist");
         }
 
-        public Product Update(Product entity)
+        public async Task<Product> Update(Product entity)
         {
-            if (Exists(entity.Id))
+            if (await Exists(entity.Id))
             {
-                Product found = GetById(entity.Id);
-                int index = storage.Products.IndexOf(found);
-                storage.Products[index] = entity;
+                Product found = await GetById(entity.Id);
+                var products = await storage.LoadDataAsync();
+                int index = products.IndexOf(found);
+                products[index] = entity;
                 return entity;
             }
             else

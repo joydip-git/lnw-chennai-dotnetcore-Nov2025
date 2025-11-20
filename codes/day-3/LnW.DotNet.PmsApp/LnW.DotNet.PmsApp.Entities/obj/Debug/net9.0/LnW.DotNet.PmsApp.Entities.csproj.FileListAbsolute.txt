@@ -10,3 +10,4 @@ E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsAp
 E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Entities\obj\Debug\net9.0\refint\LnW.DotNet.PmsApp.Entities.dll
 E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Entities\obj\Debug\net9.0\LnW.DotNet.PmsApp.Entities.pdb
 E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Entities\obj\Debug\net9.0\ref\LnW.DotNet.PmsApp.Entities.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-3\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Entities\obj\Debug\net9.0\LnW.DotNet.PmsApp.Entities.csproj.AssemblyReference.cache

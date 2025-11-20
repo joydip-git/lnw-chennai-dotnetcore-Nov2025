@@ -4,27 +4,27 @@ namespace LnW.DotNet.PmsApp.Manager
 {
     public class CategoryManager : IManager<Category, int>
     {
-        public IReadOnlyList<Category> FetchAll()
+        public Task<IReadOnlyList<Category>> FetchAll()
         {
             throw new NotImplementedException();
         }
 
-        public Category FetchById(int id)
+        public Task<Category> FetchById(int id)
         {
             throw new NotImplementedException();
         }
 
-        public Category Insert(Category entity)
+        public Task<Category> Insert(Category entity)
         {
             throw new NotImplementedException();
         }
 
-        public Category Modify(Category entity)
+        public Task<Category> Modify(Category entity)
         {
             throw new NotImplementedException();
         }
 
-        public Category Remove(int id)
+        public Task<Category> Remove(int id)
         {
             throw new NotImplementedException();
         }

@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LnW.DotNet.PmsApp.Entities\LnW.DotNet.PmsApp.Entities.csproj" />
+    <ProjectReference Include="..\LnW.DotNet.PmsApp.Repository\LnW.DotNet.PmsApp.Repository.csproj" />
   </ItemGroup>
 
 </Project>

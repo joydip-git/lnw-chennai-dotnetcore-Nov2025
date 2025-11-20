@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadsApp", "ThreadsApp\ThreadsApp.csproj", "{ECE7F2F4-74AB-442F-A0F2-94CC5ED2FD42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedResourceAccess", "SharedResourceAccess\SharedResourceAccess.csproj", "{E5297F4E-5D7C-46AA-83D1-C195ACC9796C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskDemo", "TaskDemo\TaskDemo.csproj", "{A30E5E11-D48E-4812-A8B5-60CDACED96FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingDataFromFileApp", "ReadingDataFromFileApp\ReadingDataFromFileApp.csproj", "{2A9BBA24-7A5A-4BAD-85BA-2CE32D6DAB4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{E5297F4E-5D7C-46AA-83D1-C195ACC9796C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5297F4E-5D7C-46AA-83D1-C195ACC9796C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5297F4E-5D7C-46AA-83D1-C195ACC9796C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30E5E11-D48E-4812-A8B5-60CDACED96FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30E5E11-D48E-4812-A8B5-60CDACED96FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30E5E11-D48E-4812-A8B5-60CDACED96FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30E5E11-D48E-4812-A8B5-60CDACED96FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9BBA24-7A5A-4BAD-85BA-2CE32D6DAB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9BBA24-7A5A-4BAD-85BA-2CE32D6DAB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9BBA24-7A5A-4BAD-85BA-2CE32D6DAB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9BBA24-7A5A-4BAD-85BA-2CE32D6DAB4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

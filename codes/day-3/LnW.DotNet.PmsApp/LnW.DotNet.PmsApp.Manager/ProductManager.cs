@@ -1,30 +1,43 @@
 ﻿using LnW.DotNet.PmsApp.Entities;
+using LnW.DotNet.PmsApp.Repository;
 
 namespace LnW.DotNet.PmsApp.Manager
 {
     public class ProductManager : IManager<Product, int>
     {
-        public IReadOnlyList<Product> FetchAll()
+        private readonly IRepository<Product, int> repository;
+        public ProductManager(IRepository<Product, int> repository)
+        {
+            this.repository = repository;
+        }
+        public async Task<IReadOnlyList<Product>> FetchAll()
+        {
+            try
+            {
+                return await repository.GetAll();
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
+        public Task<Product> FetchById(int id)
         {
             throw new NotImplementedException();
         }
 
-        public Product FetchById(int id)
+        public Task<Product> Insert(Product entity)
         {
             throw new NotImplementedException();
         }
 
-        public Product Insert(Product entity)
+        public Task<Product> Modify(Product entity)
         {
             throw new NotImplementedException();
         }
 
-        public Product Modify(Product entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Product Remove(int id)
+        public Task<Product> Remove(int id)
         {
             throw new NotImplementedException();
         }

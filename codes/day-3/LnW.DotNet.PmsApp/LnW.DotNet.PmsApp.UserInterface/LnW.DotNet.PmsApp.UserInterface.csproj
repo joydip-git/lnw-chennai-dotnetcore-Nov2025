@@ -8,8 +8,26 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="10.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="10.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="10.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.OLE.Interop" Version="17.14.40260" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\LnW.DotNet.PmsApp.Entities\LnW.DotNet.PmsApp.Entities.csproj" />
     <ProjectReference Include="..\LnW.DotNet.PmsApp.Manager\LnW.DotNet.PmsApp.Manager.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="products.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sVrWMn7W2ag=",
+  "dgSpecHash": "ACWIqLdpNvc=",
   "success": true,
   "projectFilePath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Repository\\LnW.DotNet.PmsApp.Repository.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

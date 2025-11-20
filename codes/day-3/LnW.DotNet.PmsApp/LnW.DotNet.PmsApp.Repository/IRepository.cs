@@ -2,10 +2,10 @@
 {
     public interface IRepository<T, TId> where T : class
     {
-        T Add(T entity);
-        T GetById(TId id);
-        IReadOnlyList<T> GetAll();
-        T Update(T entity);
-        T Delete(TId id);
+        Task<T> Add(T entity);
+        Task<T> GetById(TId id);
+        Task<IReadOnlyList<T>> GetAll();
+        Task<T> Update(T entity);
+        Task<T> Delete(TId id);
     }
 }

@@ -1,0 +1,16 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\bin\Debug\net9.0\ReadingDataFromFileApp.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\bin\Debug\net9.0\data.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\bin\Debug\net9.0\ReadingDataFromFileApp.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\bin\Debug\net9.0\ReadingDataFromFileApp.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\bin\Debug\net9.0\ReadingDataFromFileApp.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\bin\Debug\net9.0\ReadingDataFromFileApp.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\ReadingDataFromFileApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\ReadingDataFromFileApp.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\ReadingDataFromFileApp.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\ReadingDataFromFileApp.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\ReadingDataFromFileApp.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\ReadingDataFromFileApp.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\refint\ReadingDataFromFileApp.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\ReadingDataFromFileApp.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\ReadingDataFromFileApp.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ReadingDataFromFileApp\obj\Debug\net9.0\ref\ReadingDataFromFileApp.dll

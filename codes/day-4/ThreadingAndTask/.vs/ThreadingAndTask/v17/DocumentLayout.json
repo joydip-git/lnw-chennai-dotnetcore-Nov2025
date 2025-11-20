@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\ThreadingAndTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5297F4E-5D7C-46AA-83D1-C195ACC9796C}|SharedResourceAccess\\SharedResourceAccess.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-4\\threadingandtask\\sharedresourceaccess\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5297F4E-5D7C-46AA-83D1-C195ACC9796C}|SharedResourceAccess\\SharedResourceAccess.csproj|solutionrelative:sharedresourceaccess\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A9BBA24-7A5A-4BAD-85BA-2CE32D6DAB4E}|ReadingDataFromFileApp\\ReadingDataFromFileApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-4\\threadingandtask\\readingdatafromfileapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9BBA24-7A5A-4BAD-85BA-2CE32D6DAB4E}|ReadingDataFromFileApp\\ReadingDataFromFileApp.csproj|solutionrelative:readingdatafromfileapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5297F4E-5D7C-46AA-83D1-C195ACC9796C}|SharedResourceAccess\\SharedResourceAccess.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-4\\threadingandtask\\sharedresourceaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5297F4E-5D7C-46AA-83D1-C195ACC9796C}|SharedResourceAccess\\SharedResourceAccess.csproj|solutionrelative:sharedresourceaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A9BBA24-7A5A-4BAD-85BA-2CE32D6DAB4E}|ReadingDataFromFileApp\\ReadingDataFromFileApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-4\\threadingandtask\\readingdatafromfileapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9BBA24-7A5A-4BAD-85BA-2CE32D6DAB4E}|ReadingDataFromFileApp\\ReadingDataFromFileApp.csproj|solutionrelative:readingdatafromfileapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Resource.cs",
-              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\ThreadingAndTask\\SharedResourceAccess\\Resource.cs",
-              "RelativeDocumentMoniker": "SharedResourceAccess\\Resource.cs",
-              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\ThreadingAndTask\\SharedResourceAccess\\Resource.cs",
-              "RelativeToolTip": "SharedResourceAccess\\Resource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\ThreadingAndTask\\ReadingDataFromFileApp\\Person.cs",
+              "RelativeDocumentMoniker": "ReadingDataFromFileApp\\Person.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\ThreadingAndTask\\ReadingDataFromFileApp\\Person.cs",
+              "RelativeToolTip": "ReadingDataFromFileApp\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:14:49.312Z",
+              "WhenOpened": "2025-11-20T11:27:34.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\ThreadingAndTask\\SharedResourceAccess\\Program.cs",
-              "RelativeDocumentMoniker": "SharedResourceAccess\\Program.cs",
-              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\ThreadingAndTask\\SharedResourceAccess\\Program.cs",
-              "RelativeToolTip": "SharedResourceAccess\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAQAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\ThreadingAndTask\\ReadingDataFromFileApp\\Program.cs",
+              "RelativeDocumentMoniker": "ReadingDataFromFileApp\\Program.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\ThreadingAndTask\\ReadingDataFromFileApp\\Program.cs",
+              "RelativeToolTip": "ReadingDataFromFileApp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:14:27.247Z",
+              "WhenOpened": "2025-11-20T11:25:26.747Z",
               "EditorCaption": ""
             }
           ]
