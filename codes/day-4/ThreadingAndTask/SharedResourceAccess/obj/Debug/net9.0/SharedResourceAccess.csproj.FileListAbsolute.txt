@@ -1,0 +1,15 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\bin\Debug\net9.0\SharedResourceAccess.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\bin\Debug\net9.0\SharedResourceAccess.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\bin\Debug\net9.0\SharedResourceAccess.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\bin\Debug\net9.0\SharedResourceAccess.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\bin\Debug\net9.0\SharedResourceAccess.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\SharedResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\SharedResourceAccess.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\SharedResourceAccess.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\SharedResourceAccess.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\SharedResourceAccess.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\SharedResourceAccess.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\refint\SharedResourceAccess.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\SharedResourceAccess.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\SharedResourceAccess.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\SharedResourceAccess\obj\Debug\net9.0\ref\SharedResourceAccess.dll

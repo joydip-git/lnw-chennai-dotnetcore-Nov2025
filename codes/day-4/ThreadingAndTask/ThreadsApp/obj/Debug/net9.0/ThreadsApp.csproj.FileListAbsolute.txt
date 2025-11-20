@@ -1,0 +1,15 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\bin\Debug\net9.0\ThreadsApp.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\bin\Debug\net9.0\ThreadsApp.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\bin\Debug\net9.0\ThreadsApp.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\bin\Debug\net9.0\ThreadsApp.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\bin\Debug\net9.0\ThreadsApp.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\ThreadsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\ThreadsApp.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\ThreadsApp.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\ThreadsApp.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\ThreadsApp.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\ThreadsApp.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\refint\ThreadsApp.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\ThreadsApp.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\ThreadsApp.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\ThreadingAndTask\ThreadsApp\obj\Debug\net9.0\ref\ThreadsApp.dll
