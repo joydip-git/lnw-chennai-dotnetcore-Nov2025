@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\GarbageCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D871731-0130-454A-928B-CAF157DAA8C3}|GarbageCollection\\GarbageCollection.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-4\\garbagecollection\\garbagecollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D871731-0130-454A-928B-CAF157DAA8C3}|GarbageCollection\\GarbageCollection.csproj|solutionrelative:garbagecollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D871731-0130-454A-928B-CAF157DAA8C3}|GarbageCollection\\GarbageCollection.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-4\\garbagecollection\\garbagecollection\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D871731-0130-454A-928B-CAF157DAA8C3}|GarbageCollection\\GarbageCollection.csproj|solutionrelative:garbagecollection\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\GarbageCollection\\GarbageCollection\\DataProvider.cs",
+              "RelativeDocumentMoniker": "GarbageCollection\\DataProvider.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\GarbageCollection\\GarbageCollection\\DataProvider.cs",
+              "RelativeToolTip": "GarbageCollection\\DataProvider.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:40:33.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\GarbageCollection\\GarbageCollection\\Program.cs",
+              "RelativeDocumentMoniker": "GarbageCollection\\Program.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-4\\GarbageCollection\\GarbageCollection\\Program.cs",
+              "RelativeToolTip": "GarbageCollection\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T04:40:09.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

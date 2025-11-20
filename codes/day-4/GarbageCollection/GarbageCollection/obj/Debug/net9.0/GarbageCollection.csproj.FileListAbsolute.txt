@@ -1,0 +1,16 @@
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\bin\Debug\net9.0\GarbageCollection.exe
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\bin\Debug\net9.0\GarbageCollection.deps.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\bin\Debug\net9.0\GarbageCollection.runtimeconfig.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\bin\Debug\net9.0\GarbageCollection.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\bin\Debug\net9.0\GarbageCollection.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\GarbageCollection.AssemblyInfoInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\GarbageCollection.AssemblyInfo.cs
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\GarbageCollection.csproj.CoreCompileInputs.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\GarbageCollection.sourcelink.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\GarbageCollection.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\refint\GarbageCollection.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\GarbageCollection.pdb
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\GarbageCollection.genruntimeconfig.cache
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\obj\Debug\net9.0\ref\GarbageCollection.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\day-4\GarbageCollection\GarbageCollection\bin\Debug\net9.0\data.txt
