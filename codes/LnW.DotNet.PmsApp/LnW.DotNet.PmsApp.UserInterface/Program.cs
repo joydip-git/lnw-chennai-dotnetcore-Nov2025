@@ -50,12 +50,12 @@ namespace LnW.DotNet.PmsApp.UserInterface
             registry.AddScoped<IStorage<Category>, FileStorage<Category>>();
 
             //IRepository objects are dependent on IStorage type objects
-            registry.AddScoped<IRepository<Product, int>, ProductRepository>();
-            registry.AddScoped<IRepository<Category, int>, CategoryRepository>();
+            registry.AddScoped<IAsyncRepository<Product, int>, ProductRepository>();
+            registry.AddScoped<IAsyncRepository<Category, int>, CategoryRepository>();
 
             //IManager type objects are dependent on IRepository type objects
-            registry.AddScoped<IManager<Product, int>, ProductManager>();
-            registry.AddScoped<IManager<Category, int>, CategoryManager>();
+            registry.AddScoped<IAsyncManager<Product, int>, ProductManager>();
+            registry.AddScoped<IAsyncManager<Category, int>, CategoryManager>();
 
             //configuring logger
             ILoggingBuilder loggerBuilder = builder.Logging;
@@ -76,8 +76,8 @@ namespace LnW.DotNet.PmsApp.UserInterface
         }
         private static async Task GetProducts(IServiceProvider provider)
         {
-            IManager<Product, int> productManager = provider.GetRequiredService<IManager<Product, int>>();
-            IReadOnlyList<Product> products = await productManager.FetchAll();
+            IAsyncManager<Product, int> productManager = provider.GetRequiredService<IAsyncManager<Product, int>>();
+            IReadOnlyList<Product> products = await productManager.FetchAllAsync();
 
             products
                 .ToList()

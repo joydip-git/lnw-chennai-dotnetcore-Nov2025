@@ -2,29 +2,29 @@
 
 namespace LnW.DotNet.PmsApp.Manager
 {
-    public class CategoryManager : IManager<Category, int>
+    public class CategoryManager : IAsyncManager<Category, int>
     {
-        public Task<IReadOnlyList<Category>> FetchAll()
+        public Task<IReadOnlyList<Category>> FetchAllAsync()
         {
             throw new NotImplementedException();
         }
 
-        public Task<Category> FetchById(int id)
+        public Task<Category> FetchByIdAsync(int id)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Category> Insert(Category entity)
+        public Task<Category> InsertAsync(Category entity)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Category> Modify(Category entity)
+        public Task<Category> ModifyAsync(Category entity)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Category> Remove(int id)
+        public Task<Category> RemoveAsync(int id)
         {
             throw new NotImplementedException();
         }

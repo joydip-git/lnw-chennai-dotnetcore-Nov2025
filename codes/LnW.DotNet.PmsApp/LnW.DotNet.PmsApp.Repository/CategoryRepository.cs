@@ -3,7 +3,7 @@ using LnW.DotNet.PmsApp.Storage;
 
 namespace LnW.DotNet.PmsApp.Repository
 {
-    public class CategoryRepository : IRepository<Category, int>
+    public class CategoryRepository : IAsyncRepository<Category, int>
     {
         private readonly IStorage<Category> storage;
 
@@ -16,7 +16,7 @@ namespace LnW.DotNet.PmsApp.Repository
             var categories = await storage.LoadDataAsync();
             return categories.Any(c => c.Id == id);
         }
-        public async Task<Category> Add(Category entity)
+        public async Task<Category> AddAsync(Category entity)
         {
             try
             {
@@ -34,11 +34,11 @@ namespace LnW.DotNet.PmsApp.Repository
             }
         }
 
-        public async Task<Category> Delete(int id)
+        public async Task<Category> DeleteAsync(int id)
         {
             try
             {
-                Category entity = await GetById(id);
+                Category entity = await GetByIdAsync(id);
                 var categories = await storage.LoadDataAsync();
                 bool removed = categories.Remove(entity);
                 return removed ? entity : throw new Exception($"Category with id:{id} could not be removed");
@@ -49,7 +49,7 @@ namespace LnW.DotNet.PmsApp.Repository
             }
         }
 
-        public async Task<IReadOnlyList<Category>> GetAll()
+        public async Task<IReadOnlyList<Category>> GetAllAsync()
         {
             var categories = await storage.LoadDataAsync();
             if (categories.Count == 0)
@@ -60,7 +60,7 @@ namespace LnW.DotNet.PmsApp.Repository
                 return categories;
         }
 
-        public async Task<Category> GetById(int id)
+        public async Task<Category> GetByIdAsync(int id)
         {
             if (await Exists(id))
             {
@@ -71,11 +71,11 @@ namespace LnW.DotNet.PmsApp.Repository
                 throw new Exception($"Category with id:{id} does not exist");
         }
 
-        public async Task<Category> Update(Category entity)
+        public async Task<Category> UpdateAsync(Category entity)
         {
             if (await Exists(entity.Id))
             {
-                Category found = await GetById(entity.Id);
+                Category found = await GetByIdAsync(entity.Id);
                 var categories = await storage.LoadDataAsync();
                 int index = categories.IndexOf(found);
                 categories[index] = entity;

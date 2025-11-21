@@ -1,25 +1,33 @@
 ﻿using LnW.DotNet.PmsApp.Entities;
 using LnW.DotNet.PmsApp.Storage;
+using Microsoft.Extensions.Logging;
 
 namespace LnW.DotNet.PmsApp.Repository
 {
-    public class ProductRepository : IRepository<Product, int>
-    {
-        private readonly IStorage<Product> storage;
-        public ProductRepository(IStorage<Product> storage)
+    public class ProductRepository(IStorage<Product> storage, ILogger<ProductRepository> _logger) : IAsyncRepository<Product, int>
+    {      
+
+        /*
+         * private readonly IStorage<Product> storage;
+        private readonly ILogger<ProductRepository> _logger;
+
+        public ProductRepository(IStorage<Product> storage,ILogger<ProductRepository> _logger)
         {
             this.storage = storage;
+            this._logger = _logger;
         }
-        private async Task<bool> Exists(int id)
+         */
+
+        private async Task<bool> ExistsAsync(int id)
         {
             var products = await storage.LoadDataAsync();
             return products.Any(p => p.Id == id);
         }
-        public async Task<Product> Add(Product entity)
+        public async Task<Product> AddAsync(Product entity)
         {
             try
             {
-                if (!await Exists(entity.Id))
+                if (!await ExistsAsync(entity.Id))
                 {
                     var products = await storage.LoadDataAsync();
                     products.Add(entity);
@@ -35,12 +43,12 @@ namespace LnW.DotNet.PmsApp.Repository
             }
         }
 
-        public async Task<Product> Delete(int id)
+        public async Task<Product> DeleteAsync(int id)
         {
 
             try
             {
-                Product entity = await GetById(id);
+                Product entity = await GetByIdAsync(id);
                 var products = await storage.LoadDataAsync();
                 bool removed = products.Remove(entity);
                 return removed ? entity : throw new Exception($"Product with id:{id} could not be removed");
@@ -51,7 +59,7 @@ namespace LnW.DotNet.PmsApp.Repository
             }
         }
 
-        public async Task<IReadOnlyList<Product>> GetAll()
+        public async Task<IReadOnlyList<Product>> GetAllAsync()
         {
             var products = await storage.LoadDataAsync();
             if (products.Count == 0)
@@ -62,9 +70,9 @@ namespace LnW.DotNet.PmsApp.Repository
                 return products;
         }
 
-        public async Task<Product> GetById(int id)
+        public async Task<Product> GetByIdAsync(int id)
         {
-            if (await Exists(id))
+            if (await ExistsAsync(id))
             {
                 var products = await storage.LoadDataAsync();
                 return products.First(p => p.Id == id);
@@ -73,11 +81,11 @@ namespace LnW.DotNet.PmsApp.Repository
                 throw new Exception($"Product with id:{id} does not exist");
         }
 
-        public async Task<Product> Update(Product entity)
+        public async Task<Product> UpdateAsync(Product entity)
         {
-            if (await Exists(entity.Id))
+            if (await ExistsAsync(entity.Id))
             {
-                Product found = await GetById(entity.Id);
+                Product found = await GetByIdAsync(entity.Id);
                 var products = await storage.LoadDataAsync();
                 int index = products.IndexOf(found);
                 products[index] = entity;

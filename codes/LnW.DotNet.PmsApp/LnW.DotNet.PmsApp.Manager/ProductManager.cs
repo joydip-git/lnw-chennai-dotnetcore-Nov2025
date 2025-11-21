@@ -1,20 +1,27 @@
 ﻿using LnW.DotNet.PmsApp.Entities;
 using LnW.DotNet.PmsApp.Repository;
+using Microsoft.Extensions.Logging;
 
 namespace LnW.DotNet.PmsApp.Manager
 {
-    public class ProductManager : IManager<Product, int>
+    public class ProductManager(IAsyncRepository<Product, int> repository, ILogger<ProductManager> logger) : IAsyncManager<Product, int>
     {
-        private readonly IRepository<Product, int> repository;
-        public ProductManager(IRepository<Product, int> repository)
+
+        /*
+         * private readonly IAsyncRepository<Product, int> repository;
+        private readonly ILogger<ProductManager> logger;
+
+        public ProductManager(IAsyncRepository<Product, int> repository, ILogger<ProductManager> logger)
         {
             this.repository = repository;
+            this.logger = logger;
         }
-        public async Task<IReadOnlyList<Product>> FetchAll()
+         */
+        public async Task<IReadOnlyList<Product>> FetchAllAsync()
         {
             try
             {
-                return await repository.GetAll();
+                return await repository.GetAllAsync();
             }
             catch (Exception)
             {
@@ -22,22 +29,22 @@ namespace LnW.DotNet.PmsApp.Manager
             }
         }
 
-        public Task<Product> FetchById(int id)
+        public Task<Product> FetchByIdAsync(int id)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Product> Insert(Product entity)
+        public Task<Product> InsertAsync(Product entity)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Product> Modify(Product entity)
+        public Task<Product> ModifyAsync(Product entity)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Product> Remove(int id)
+        public Task<Product> RemoveAsync(int id)
         {
             throw new NotImplementedException();
         }

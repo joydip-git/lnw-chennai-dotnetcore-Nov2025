@@ -14,6 +14,18 @@
   <ItemGroup>
     <ProjectReference Include="..\LnW.DotNet.PmsApp.Entities\LnW.DotNet.PmsApp.Entities.csproj" />
     <ProjectReference Include="..\LnW.DotNet.PmsApp.Manager\LnW.DotNet.PmsApp.Manager.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appSettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="categories.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="products.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup> 
 
 </Project>

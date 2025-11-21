@@ -74,3 +74,6 @@ E:\lnw-chennai-dotnetcore-Nov2025\codes\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.User
 E:\lnw-chennai-dotnetcore-Nov2025\codes\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\LnW.DotN.FE108AF7.Up2Date
 E:\lnw-chennai-dotnetcore-Nov2025\codes\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\LnW.DotNet.PmsApp.UserInterface.genruntimeconfig.cache
 E:\lnw-chennai-dotnetcore-Nov2025\codes\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\ref\LnW.DotNet.PmsApp.UserInterface.dll
+E:\lnw-chennai-dotnetcore-Nov2025\codes\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\bin\Debug\net9.0\appSettings.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\bin\Debug\net9.0\categories.json
+E:\lnw-chennai-dotnetcore-Nov2025\codes\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\bin\Debug\net9.0\products.json

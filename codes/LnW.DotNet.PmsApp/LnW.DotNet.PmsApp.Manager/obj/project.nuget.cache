@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Qf/YIC02oSY=",
+  "dgSpecHash": "mMYW5ZBd+sk=",
   "success": true,
   "projectFilePath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Manager\\LnW.DotNet.PmsApp.Manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
     "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512"
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -479,7 +479,8 @@
       "LnW.DotNet.PmsApp.Repository/1.0.0": {
         "dependencies": {
           "LnW.DotNet.PmsApp.Entities": "1.0.0",
-          "LnW.DotNet.PmsApp.Storage": "1.0.0"
+          "LnW.DotNet.PmsApp.Storage": "1.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.0"
         },
         "runtime": {
           "LnW.DotNet.PmsApp.Repository.dll": {
