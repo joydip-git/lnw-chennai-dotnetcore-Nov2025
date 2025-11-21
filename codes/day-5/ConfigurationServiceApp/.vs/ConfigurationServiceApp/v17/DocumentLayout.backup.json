@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-5\\configurationserviceapp\\jsonconfigurationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|solutionrelative:jsonconfigurationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-5\\configurationserviceapp\\jsonconfigurationapp\\productstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|solutionrelative:jsonconfigurationapp\\productstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-5\\configurationserviceapp\\jsonconfigurationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|solutionrelative:jsonconfigurationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-5\\configurationserviceapp\\jsonconfigurationapp\\jsonconfigurationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|solutionrelative:jsonconfigurationapp\\jsonconfigurationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-5\\configurationserviceapp\\jsonconfigurationapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|solutionrelative:jsonconfigurationapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-5\\configurationserviceapp\\jsonconfigurationapp\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDB669C-D8C8-42D2-A615-E503D06353D3}|JsonConfigurationApp\\JsonConfigurationApp.csproj|solutionrelative:jsonconfigurationapp\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductStorage.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\ProductStorage.cs",
+              "RelativeDocumentMoniker": "JsonConfigurationApp\\ProductStorage.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\ProductStorage.cs",
+              "RelativeToolTip": "JsonConfigurationApp\\ProductStorage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:22:02.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\Product.cs",
+              "RelativeDocumentMoniker": "JsonConfigurationApp\\Product.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\Product.cs",
+              "RelativeToolTip": "JsonConfigurationApp\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:22:14.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\IStorage.cs",
+              "RelativeDocumentMoniker": "JsonConfigurationApp\\IStorage.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\IStorage.cs",
+              "RelativeToolTip": "JsonConfigurationApp\\IStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:20:44.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonConfigurationApp.csproj",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\JsonConfigurationApp.csproj",
+              "RelativeDocumentMoniker": "JsonConfigurationApp\\JsonConfigurationApp.csproj",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\JsonConfigurationApp.csproj",
+              "RelativeToolTip": "JsonConfigurationApp\\JsonConfigurationApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T05:01:27.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\appSettings.json",
+              "RelativeDocumentMoniker": "JsonConfigurationApp\\appSettings.json",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\appSettings.json",
+              "RelativeToolTip": "JsonConfigurationApp\\appSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA3wBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T04:59:19.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\Program.cs",
+              "RelativeDocumentMoniker": "JsonConfigurationApp\\Program.cs",
+              "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-5\\ConfigurationServiceApp\\JsonConfigurationApp\\Program.cs*",
+              "RelativeToolTip": "JsonConfigurationApp\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAA4wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T04:56:17.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

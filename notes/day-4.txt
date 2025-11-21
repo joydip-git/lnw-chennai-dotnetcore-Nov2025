@@ -1,2 +1,8 @@
-Generations:
-	0, 1, 2
+Method execution style:
+	synchronous
+	asynchronous
+
+Multi-Threading:
+	Thread
+	delegate void ThreadStart()
+	delegate void ParameterizedThreadStart(object obj)

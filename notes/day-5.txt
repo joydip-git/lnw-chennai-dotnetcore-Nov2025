@@ -1,0 +1,22 @@
+Configuration Service:
+------------------------------
+
+1. setting files like app settings json file
+2. environment variables
+3. Command line arguments
+4. Directory files
+5. in memory objects
+6. 3rd party providers
+7. azure key vault
+8. azure app config
+etc.
+
+configuration providers => IConfiguration, IConfigurationRoot, IConfigurationSettings
+packages: 
+	Microsoft.Extensions.Configuration
+	Microsoft.Extensions.Configuration.Json
+	Microsoft.Extensions.Configuration.EnvironmentVariables
+	Microsoft.Extensions.Configuration.CommandLine
+	Microsoft.Extensions.Configuration.Binder
+	Microsoft.Extensions.Options
+

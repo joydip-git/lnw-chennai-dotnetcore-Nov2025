@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\LnW.DotNet.PmsApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83178570-A6AB-463D-B605-46646EE5546E}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-3\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83178570-A6AB-463D-B605-46646EE5546E}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|solutionrelative:lnw.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E98C974B-A77C-4C71-B29E-D8F1A710AE11}|LnW.DotNet.PmsApp.Storage\\LnW.DotNet.PmsApp.Storage.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-3\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.storage\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E98C974B-A77C-4C71-B29E-D8F1A710AE11}|LnW.DotNet.PmsApp.Storage\\LnW.DotNet.PmsApp.Storage.csproj|solutionrelative:lnw.dotnet.pmsapp.storage\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83178570-A6AB-463D-B605-46646EE5546E}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-3\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.userinterface\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{83178570-A6AB-463D-B605-46646EE5546E}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|solutionrelative:lnw.dotnet.pmsapp.userinterface\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83178570-A6AB-463D-B605-46646EE5546E}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-3\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83178570-A6AB-463D-B605-46646EE5546E}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|solutionrelative:lnw.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7358E9B-1942-421D-8D6F-25E4624768C1}|LnW.DotNet.PmsApp.Entities\\LnW.DotNet.PmsApp.Entities.csproj|e:\\lnw-chennai-dotnetcore-nov2025\\codes\\day-3\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.entities\\filesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FileStorage.cs",
               "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Storage\\FileStorage.cs",
               "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.Storage\\FileStorage.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "products.json",
               "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\products.json",
               "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.UserInterface\\products.json",
@@ -71,8 +71,7 @@
               "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\products.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-20T12:01:09.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T12:01:09.03Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "LnW.DotNet.PmsApp.Entities\\FileSetting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T12:00:16.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T12:00:16.611Z"
             },
             {
               "$type": "Document",
@@ -97,18 +95,17 @@
               "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-20T11:59:54.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T11:59:54.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Program.cs",
               "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.UserInterface\\Program.cs",
               "ToolTip": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Program.cs",
               "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T11:59:53.046Z",
               "EditorCaption": ""
@@ -123,8 +120,7 @@
               "RelativeToolTip": "LnW.DotNet.PmsApp.Manager\\CategoryManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:59:28.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T11:59:28.553Z"
             },
             {
               "$type": "Document",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "LnW.DotNet.PmsApp.Manager\\ProductManager.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:59:25.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T11:59:25.396Z"
             },
             {
               "$type": "Document",
@@ -149,8 +144,7 @@
               "RelativeToolTip": "LnW.DotNet.PmsApp.Repository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:58:00.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T11:58:00.548Z"
             },
             {
               "$type": "Document",
@@ -162,8 +156,7 @@
               "RelativeToolTip": "LnW.DotNet.PmsApp.Repository\\ProductRepository.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAAADUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T11:57:58.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T11:57:58.977Z"
             }
           ]
         }
