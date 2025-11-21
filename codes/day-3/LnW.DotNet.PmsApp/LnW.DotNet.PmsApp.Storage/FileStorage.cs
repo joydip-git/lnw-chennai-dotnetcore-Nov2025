@@ -7,7 +7,7 @@ namespace LnW.DotNet.PmsApp.Storage
     public class FileStorage<T> : IStorage<T> where T : class
     {
         private readonly string filePath;
-        public FileStorage(IOptions<FileSetting> settingOptions)
+        public FileStorage(IOptions<FilePathSetting> settingOptions)
         {
             this.filePath = settingOptions.Value.FilePath;
         }

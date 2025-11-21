@@ -1,6 +1,6 @@
 ﻿namespace LnW.DotNet.PmsApp.Entities
 {
-    public class FileSetting
+    public class FilePathSetting 
     {
         public string FilePath { get; set; } = string.Empty;
     }

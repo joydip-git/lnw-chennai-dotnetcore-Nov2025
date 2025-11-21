@@ -1,17 +1,13 @@
-﻿using LnW.DotNet.PmsApp.Entities;
-using LnW.DotNet.PmsApp.Manager;
-using LnW.DotNet.PmsApp.Repository;
-using LnW.DotNet.PmsApp.Storage;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Options;
-
-namespace LnW.DotNet.PmsApp.UserInterface
+﻿namespace LnW.DotNet.PmsApp.UserInterface
 {
     internal class Program
-    {
+    {        
         static void Main(string[] args)
         {
+            /*
+         
+            //code without Host service
+
             var configuration = new ConfigurationBuilder()
             .SetBasePath(Directory.GetCurrentDirectory())
             .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
@@ -19,7 +15,13 @@ namespace LnW.DotNet.PmsApp.UserInterface
 
             var services = new ServiceCollection();
 
-            services.Configure<FileSetting>(options => options.FilePath = configuration.GetSection("FileSetting:FilePath").Value ?? "");
+            services.Configure<FilePathSetting>(filePathSetting => 
+                {
+                    filePathSetting.FilePath = configuration.GetRequiredSection("filePathSetting:productFilePath").Value ?? "";
+                    //for categories
+                    //filePathSetting.CategoryFilePath = configuration.GetRequiredSection("filePathSetting:categoryFilePath").Value??"";
+                }
+            );
 
             services.AddScoped<IStorage<Product>, FileStorage<Product>>();
             services.AddScoped<IStorage<Category>, FileStorage<Category>>();
@@ -31,8 +33,16 @@ namespace LnW.DotNet.PmsApp.UserInterface
             services.AddScoped<IManager<Category, int>, CategoryManager>();
 
             IServiceProvider provider = services.BuildServiceProvider();
+
             IManager<Product, int> productManager = provider.GetRequiredService<IManager<Product, int>>();
-            productManager.FetchAll().Result.ToList().ForEach(p => Console.WriteLine($"{p.Id} - {p.Name} - {p.Price}"));
+
+            var products = await productManager.FetchAll()
+            products
+                .ToList()
+                .ForEach(p => Console.WriteLine($"{p.Id} - {p.Name} - {p.Price}"));
+            */
         }
+
+
     }
 }

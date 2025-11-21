@@ -1,27 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y7VWsdwDm2E=",
+  "dgSpecHash": "xpxJFA/5Nxo=",
   "success": true,
   "projectFilePath": "E:\\lnw-chennai-dotnetcore-Nov2025\\codes\\day-3\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0\\microsoft.extensions.configuration.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0\\microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.0\\microsoft.extensions.configuration.binder.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.0\\microsoft.extensions.configuration.fileextensions.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.0\\microsoft.extensions.configuration.json.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.0\\microsoft.extensions.fileproviders.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.0\\microsoft.extensions.fileproviders.physical.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.0\\microsoft.extensions.filesystemglobbing.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.visualstudio.imaging.interop.14.0.designtime\\17.14.40254\\microsoft.visualstudio.imaging.interop.14.0.designtime.17.14.40254.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.visualstudio.interop\\17.14.40260\\microsoft.visualstudio.interop.17.14.40260.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\17.14.40260\\microsoft.visualstudio.ole.interop.17.14.40260.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
-    "C:\\Users\\joydi\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
